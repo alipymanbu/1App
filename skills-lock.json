@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "ui-ux-pro-max": {
+      "source": "nexu-io/open-design",
+      "sourceType": "github",
+      "skillPath": "skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "6cccf7e307597e036cf5d2b6efc085f8564369f02b88a193a375774ed4174b0e"
+    }
+  }
+}

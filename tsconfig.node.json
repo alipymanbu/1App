@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "target": "ESNext",
+    "outDir": "./out",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "types": ["node"]
+  },
+  "include": [
+    "src/main/**/*",
+    "src/preload/**/*",
+    "src/shared/**/*"
+  ]
+}

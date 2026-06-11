@@ -1,0 +1,28 @@
+node_modules/
+out/
+dist/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/settings.json
+.idea/
+*.iml
+
+# Environment
+.env
+.env.local
+*.local
+
+# Build
+*.tsbuildinfo
+.next/
+
+# Logs
+*.log
+npm-debug.log*
